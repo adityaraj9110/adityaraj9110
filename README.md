@@ -1,11 +1,11 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://adityaportfoliosite.netlify.app/)
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">An IT Engineer Who Loves To Explore New Technologies And Learning It...</h3>
-<img align="right" alt="coding" width="200" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
+<img align="right" alt="coding" width="300" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj9110&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj9110" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaraj9110" alt="adityaraj9110" /></a> </p>
+<p align="left" width="200">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaraj9110" alt="adityaraj9110" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
