@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web technologies and SIH projects**
+- 🔭 I’m currently working on **Web technologies **
 
-- 🌱 I’m currently learning **MERN, DSA, Advance Python**
+- 🌱 I’m currently learning **MERN, DSA, Frontend , Creation of amazing designs and animation for website**
 
 - 👯 I’m looking to collaborate on **MERN stack project**
 
