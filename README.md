@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Web technologies **
 
-- 🌱 I’m currently learning **MERN, DSA, Frontend , Creation of amazing designs and animation for website**
+- 🌱 I’m currently learning **React, DSA, Frontend , Creation of amazing designs and animation for website**
 
 - 👯 I’m looking to collaborate on **MERN stack project**
 
